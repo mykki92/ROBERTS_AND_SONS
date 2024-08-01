@@ -1,1 +1,1 @@
-web: gunicorn roberts_and_sons.wsgi
+web: gunicorn roberts_and_sons.wsgi:application
